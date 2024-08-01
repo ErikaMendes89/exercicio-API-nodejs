@@ -124,5 +124,9 @@ Este exercício demonstra como usar middleware para implementar autenticação s
 Os arquivos encontram-se no caminho node-essentials\nodejs-http\exercise-express-middleware
 
 
+![JarJarBinksStarWarsGIF](https://github.com/user-attachments/assets/8cbeec25-6236-453f-a8d9-4c35bfc50598)
+
+
+
 
 
